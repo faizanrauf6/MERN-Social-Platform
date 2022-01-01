@@ -13,5 +13,6 @@ npm start in the client folder to start the frontend.
 
 Use online mongoDB (Create your own cluster).
 
+Note: Create .env file in API folder and put your mongoDB link in it.
 Now open your browser and visit: http://localhost:3000/.
 Enjoy Cheers.
